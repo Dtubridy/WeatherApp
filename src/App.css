@@ -34,8 +34,8 @@ body {
 
 .form-container {
   background-color: #2c3e50;
-  height: 70vh;
-  padding-top: 100px;
+  height: 60vh;
+  padding-top: 70px;
   padding-left: 50px;
   align-content: center;
   
@@ -46,7 +46,7 @@ body {
 input[type="text"] {
   background-color: transparent;
   border: 0;
-  border-bottom: solid 1px #f16051;
+  border-bottom: solid 1px #a59c9b;
   width: 30%;
   padding-bottom: 4px;
   color: #fff !important;
@@ -76,7 +76,7 @@ button {
   letter-spacing: 1px;
   font-size: 15px;
   cursor: pointer;
-  background-color: #f16051;
+  background-color: #a59c9b;
   
   color: #fff;
   font-weight: 100;
@@ -94,7 +94,7 @@ button:active {
 }
 
 .weather__key {
-  color: #f16051;
+  color: #a59c9b;
   border-bottom: solid 2px rgba(255,255,255,0.06);
   padding: 20px 0 20px 0;
   font-weight: 400;
